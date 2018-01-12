@@ -1,0 +1,3 @@
+add_lunch_combo full_allure_m1-user
+add_lunch_combo full_allure_m1-userdebug
+add_lunch_combo full_allure_m1-eng
